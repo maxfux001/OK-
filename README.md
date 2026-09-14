@@ -17,7 +17,7 @@
 
 <http://www.饭太硬.cc/tv>
 
-<https://9877.kstore.space/one.json>
+<https://9877.kstore.space/sun.json>
 
 <https://cyao2q.github.io/files/m.json>
 
